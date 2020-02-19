@@ -1,0 +1,6 @@
+﻿{
+	"ZabbixHost": "127.0.0.1",
+	"ZabbixPort": 10051,
+	"MonitoringHost": "zabis",
+	"MonitoringKey": "alert"
+}
